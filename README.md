@@ -1,10 +1,8 @@
-# Hi 👋, I'm Subha Sundar
+ Hi 👋, I'm Subha Sundar
+🎓 Cybersecurity Enthusiast
+🤖 Machine Learning Developer
 
-#🎓 Cybersecurity Enthusiast
-#🤖 Machine Learning Developer
-
-
-## Skills
+ Skills
 - Python
 - Machine Learning
 - Cybersecurity
