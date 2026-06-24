@@ -1,8 +1,8 @@
 # Hi 👋, I'm Subha Sundar
 
-🎓 Cybersecurity Enthusiast
-🤖 Machine Learning Developer
-🔐 Network Traffic Classification Researcher
+#🎓 Cybersecurity Enthusiast
+#🤖 Machine Learning Developer
+
 
 ## Skills
 - Python
